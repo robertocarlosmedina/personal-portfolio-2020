@@ -4,9 +4,9 @@ import "./style.css"
 
 const Description = ()=>{
     return (
-        <div>
-            ok
-        </div>
+        <session className="presentation">
+            <p>...Wating implementation</p>
+        </session>
     )
 }
 
