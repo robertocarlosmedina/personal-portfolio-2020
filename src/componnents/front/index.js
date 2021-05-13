@@ -14,7 +14,7 @@ const FrontPage = () =>{
           <span></span>
           <span></span>
           <span></span>
-          About me
+          Use the slide buttons to see more about me
         </a> 
     </div>
     )

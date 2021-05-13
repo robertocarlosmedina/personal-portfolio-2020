@@ -1,14 +1,16 @@
-/* .presentation{
+.presentation{
     width: 100%;
     background-color: rgb(177, 177, 177);
     height: 100vh;
     position: absolute;
-} */
-/* .aboutMe{
+}
+.aboutMe{
     width: 60%;
     margin-left: 20%;
     margin-top: 15%;
     background-color: #bdbdbd;
+    text-align:justify;
+    padding: 30px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
 .aboutMe:hover{
@@ -16,7 +18,3 @@
     width: 60.4%;
     margin-left: 19.8%;
 }
-.aboutMe p{
-    text-align:justify;
-    padding: 30px;
-} */

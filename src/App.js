@@ -1,14 +1,14 @@
+import React from "react"
 import './App.css';
-import FrontPage from "./componnents/front"
-import Description from "./componnents/description"
+import PageSlider from "./componnents/slideControl/slideControl"
+
 
 function App() {
-  return (
+  return(
     <div className="App">
-      <FrontPage />
-      <Description />
+      <PageSlider />
     </div>
-  );
+  )
 }
 
 export default App;

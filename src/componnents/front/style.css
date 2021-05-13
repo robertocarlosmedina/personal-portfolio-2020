@@ -26,7 +26,7 @@
     position: absolute;
     background:transparent;
   padding: 20px 40px;
-  left: 5%;
+  left: 8%;
   bottom: max(10px,8vw);/*  Responsive text */
   display: inline-block;
 -webkit-transform: translate(0%, 0%);
@@ -34,7 +34,7 @@
 overflow: hidden;
 color: #e6f7d4;
 font-size: 20px;
-letter-spacing: 2.5px;
+/* letter-spacing: 2.5px; */
   text-align: center;
   text-decoration: none;
   -webkit-box-shadow: 0 20px 50px rgba(65, 65, 65, 0.5);
@@ -42,7 +42,8 @@ letter-spacing: 2.5px;
 }
 .animated-button4:hover{
     
-    background: linear-gradient(-30deg, #56614c , #0d1501 60%);
+    /* background: linear-gradient(-30deg, #535c4a , #0d1501 60%); */
+    background-color: transparent;
 }
 
 .animated-button4::before {
@@ -164,7 +165,7 @@ letter-spacing: 2.5px;
     display: -moz-grid-group;
     display: -moz-grid-group;
     bottom: max(120px,15.3vw);
-    margin-left: 5%;
+    margin-left: 8%;
 }
 .name{
     color: #acacac;
@@ -174,7 +175,7 @@ letter-spacing: 2.5px;
     position: absolute;
     display: -moz-grid-group;
     bottom: max(170px,21vw);
-    margin-left: 5%;
+    margin-left: 8%;
     
 }
 .name1{
@@ -184,6 +185,6 @@ letter-spacing: 2.5px;
     position: absolute;
     display: -moz-grid-group;
     bottom: max(150px, 20.6vw);/*  Responsive text */
-    margin-left: 5%;  
+    margin-left: 8%;  
 }
 
