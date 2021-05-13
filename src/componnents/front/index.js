@@ -9,7 +9,7 @@ const FrontPage = () =>{
         <h2 className="name">I'm Roberto</h2>
         <h1 className="phase">Let's talk about new ideias</h1>
         <h2 className="name1">Software Engineering Student</h2>
-        <a href="#section" className="animated-button4"> 
+        <a href="#div" className="animated-button4"> 
           <span></span>
           <span></span>
           <span></span>

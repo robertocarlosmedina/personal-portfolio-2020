@@ -18,12 +18,16 @@
     /* margin-left: 39%; */
     opacity: 0.8;
 }
+.photoId{/*  Responsive image */
+  max-width: max(80%, 21vw);
+  height: auto;
+}
 .animated-button4 {
     position: absolute;
     background:transparent;
   padding: 20px 40px;
   left: 5%;
-  bottom: max(10px,8vw);
+  bottom: max(10px,8vw);/*  Responsive text */
   display: inline-block;
 -webkit-transform: translate(0%, 0%);
         transform: translate(0%, 0%);
@@ -163,7 +167,7 @@ letter-spacing: 2.5px;
     margin-left: 5%;
 }
 .name{
-    color: #5e5e5e;
+    color: #acacac;
     font-size: max(18px,3vw);
     letter-spacing: -0.1vw;
     background-color: transparent;
@@ -174,11 +178,12 @@ letter-spacing: 2.5px;
     
 }
 .name1{
-    color: #777777;
-    font-size: max(12px,1.5vw);
+    color: #c9c9c9;
+    font-size: max(12px,1.5vw);/*  Responsive text */
     background-color: transparent;
     position: absolute;
     display: -moz-grid-group;
-    bottom: max(150px, 20.6vw);
+    bottom: max(150px, 20.6vw);/*  Responsive text */
     margin-left: 5%;  
 }
+
